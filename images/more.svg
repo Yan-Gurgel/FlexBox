@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 32 32"><defs><style>.cls-1{fill:#515151;}</style></defs><title>Simple Fast Icons EXT</title><path d="M16,9a3,3,0,1,0-3-3A3,3,0,0,0,16,9Zm0-4.46A1.46,1.46,0,1,1,14.54,6,1.46,1.46,0,0,1,16,4.54Z" style="fill: #515151;"/><path d="M16,19a3,3,0,1,0-3-3A3,3,0,0,0,16,19Zm0-4.46A1.46,1.46,0,1,1,14.54,16,1.46,1.46,0,0,1,16,14.54Z" style="fill: #515151;"/><path d="M16,29a3,3,0,1,0-3-3A3,3,0,0,0,16,29Zm0-4.46A1.46,1.46,0,1,1,14.54,26,1.46,1.46,0,0,1,16,24.54Z" style="fill: #515151;"/>
-	
-	<metadata>
-		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="More, Functions, Menu, Vertical, Dots, Hidden" dc:description="More, Functions, Menu, Vertical, Dots, Hidden" dc:publisher="Iconscout" dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
-				<dc:creator>
-					<rdf:Bag>
-						<rdf:li>Kirill Kazachek</rdf:li>
-					</rdf:Bag>
-				</dc:creator>
-			</rdf:Description>
-		</rdf:RDF>
-    </metadata></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#231f20" d="M8 11a1.48 1.48 0 0 0-1 .48 1.5 1.5 0 0 0-.4 1.07A1.5 1.5 0 0 0 8 14h.05A1.5 1.5 0 0 0 9.5 12.45a1.48 1.48 0 0 0-.48-1A1.46 1.46 0 0 0 8 11zm.55 1.48a.52.52 0 0 1-.13.36A.5.5 0 0 1 8 13a.52.52 0 0 1-.36-.13.5.5 0 0 1-.16-.35.52.52 0 0 1 .13-.36A.5.5 0 0 1 8 12H8a.51.51 0 0 1 .34.13.5.5 0 0 1 .16.35zM8 6.5A1.5 1.5 0 1 0 9.5 8 1.5 1.5 0 0 0 8 6.5zm0 2A.5.5 0 1 1 8.5 8 .5.5 0 0 1 8 8.5zM8 5A1.5 1.5 0 1 0 6.5 3.5 1.5 1.5 0 0 0 8 5zM8 3a.5.5 0 1 1-.5.5A.5.5 0 0 1 8 3z" data-name="Layer 2"/></svg>
